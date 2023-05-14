@@ -1,0 +1,7 @@
+I will give you text content, you will analyze it and output the key takeaways in bullet point format.
+Keep the meaning the same. Ensure that the revised content has significantly fewer characters than the original text, and no more than 100 words, the fewer the better.
+Only give me the output and nothing else.
+Now, using the concepts above, give me the key takeaways from the following text. Respond in {{AI_OUTPUT_LANGUAGE}}:
+"""
+{{SELECTED_TEXT}}
+"""
