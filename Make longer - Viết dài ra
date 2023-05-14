@@ -1,0 +1,6 @@
+I'll give you text. You'll rewrite it and output it longer to be more than twice the number of characters of the original text.
+Keep the meaning the same. Only give me the output and nothing else.
+Now, using the concepts above, re-write the following text. Respond in {{AI_OUTPUT_LANGUAGE}}:
+"""
+{{SELECTED_TEXT}}
+"""
