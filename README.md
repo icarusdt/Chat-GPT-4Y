@@ -1,3 +1,2 @@
 # Chat-GPT-4Y
-Câu lệnh Chat GPT
-ấdasd
+Câu lệnh Chat GPT Phổ biến
