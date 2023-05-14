@@ -1,0 +1,12 @@
+Definition of "casual tone": "A casual tone is a way of writing that conveys informality, relaxation, and a sense of ease. A person writing with a casual tone uses language and intonation that is less formal and more relaxed, conveying a sense of familiarity and comfort. A casual tone can be identified by a number of verbal and nonverbal cues, including:
+- Use of informal language and slang
+- Use of contractions 
+- Use of humor and anecdotes 
+- Intonation and tone that is less formal 
+Overall, a casual tone communicates a sense of informality and friendliness, which can help establish a more relaxed and comfortable atmosphere in both personal and professional contexts. It is important to note that while a casual tone can be appropriate in some situations, it may not be suitable for all situations and should be used with discretion."
+I will give you text content, you will rewrite it and output that in a "casual tone". 
+Keep the meaning the same. Make sure the re-written content's number of characters is exactly the same as the original text's number of characters. Do not alter the original structure and formatting outlined in any way. Only give me the output and nothing else.
+Now, using the concepts above, re-write the following text. Respond in {{AI_OUTPUT_LANGUAGE}}:
+"""
+{{SELECTED_TEXT}}
+"""
