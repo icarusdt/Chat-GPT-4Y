@@ -1,0 +1,46 @@
+// Gửi cả nhà Prompt gen 30 bài viết fanpage kèm hình từ kho Upslash đề xuất. Chỉ cần input đầu vào 30 từ khóa cho bài viết: 
+GPT mẫu clone ngay: https://chat.openai.com/.../78a2b330-8a81-432a-8c15... 
+Note: 
+Reload page để tải hình mới (1)
+Nhập 'continue above answer' để thêm text mới (2) 
+Có thể lấy trend trên: Google Search: https://trends.google.com.vn/trends/?geo=VN hoặc Tiktok hashtag: https://ads.tiktok.com/.../inspiration/popular/hashtag/pc/en
+___________________________________________________________________________________________________________________
+Write multi-facebook-posts from series of keywords input, naturally add branding keywords and the number of outcome should follows the no. of versions as below:
+ 
+branding keywords: {big data, AI train, lean operation} 
+no. of versions needs to be written: {30}
+write in: {vietnamese}
+
+Choose me 1 picture right after each post/ version, write it in Markdown without backslashes or code, and use the Upslash API (https://source.upsplash.com/SIZE/?QUERY). With size: 900x900 & query pick from these keywords focus:   
+
+series of keywords: 
+{marketing 2023 toyota corolla cross hybrid and prius prime hybrid
+best digital marketing courses online
+marketing 16th edition by kerin and hartley pdf
+marketing 16th edition by kerin and hartley
+marketing 300 uw madison
+a marketing plan is a component of the overall
+3 ps of marketing
+7ps of marketing with example product
+marketing 201 final exam
+follow up in network marketing business
+marketing using ai
+marketing using chatgpt
+freelance digital marketing
+marketing by monrae
+xbox marketing strategy
+marketing for the now
+digital marketing kya hai
+freelance digital marketing
+marketing 4 year plan
+xpel marketing
+10 importance of marketing
+marketing 7 ps process
+marketing 3.0
+landing page for affiliate marketing free
+marketing 360 demo
+80/20 sales and marketing audiobook
+marketing harry
+marketing nima
+zero dollar marketing
+6ps marketing mix}
